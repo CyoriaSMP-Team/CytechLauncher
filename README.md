@@ -7,6 +7,17 @@
 > [!NOTE]
 > **Cytech Launcher** is an **unofficial modified version**. This project focuses on refining the UI and adding specialized features while maintaining the robust core of the original work.
 
+
+
+<!-- CYTECH_README_REFRESH:START -->
+<p align="center"><img alt="Unofficial Minecraft Android launcher section accent" width="100%" height="10" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:D4AF37&height=10&section=header"></p>
+
+<p align="center"><sub>Unofficial Minecraft Android launcher</sub></p>
+
+<p align="center"><a href="#-key-features">✨ Key Features</a> &nbsp;·&nbsp; <a href="#-build-instructions-for-developers">📦 Build Instructions (For Developers)</a> &nbsp;·&nbsp; <a href="#-license">📜 License</a> &nbsp;·&nbsp; <a href="#-credits-appreciation">🙏 Credits &amp; Appreciation</a> &nbsp;·&nbsp; <a href="https://github.com/CyoriaSMP-Team/CytechLauncher/issues">Issues</a> &nbsp;·&nbsp; <a href="https://github.com/CyoriaSMP-Team/CytechLauncher/releases">Releases</a></p>
+
+<!-- CYTECH_README_REFRESH:END -->
+
 ## ✨ Key Features
 - **Luxury UI Design**: A stunning **Gold & Jet Black** interface designed for a high-end feel.
 - **Premium Experience**: Symmetrical and minimalist layout adjustments for a fluid and formal user experience.
