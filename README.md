@@ -1,3 +1,5 @@
+<p><img src="CytechLauncher/src/main/res/drawable/app_logo.png" alt="CytechLauncher logo" width="136" /></p>
+
 # 💎 Cytech Launcher
 ![Luxury Branding](https://img.shields.io/badge/Style-Luxury-D4AF37?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Premium_Modified-Black?style=for-the-badge)
@@ -101,3 +103,18 @@ This software uses the following open source libraries:
 | skinview3d                            | Copyright © 2014-2018 Kent Rasmussen; Copyright © 2017-2022 Haowei Wen, Sean Boult and contributors           | MIT License          | [Link](https://github.com/bs-community/skinview3d)                                |
 | XZ for Java                           | Copyright © The XZ for Java authors and contributors                                                          | 0BSD License         | [Link](https://tukaani.org/xz/java.html)                                          |
 
+---
+
+<!-- CYTECH_STAR_HISTORY:START -->
+
+## Star History
+
+<a href="https://star-history.dera.page/#CyoriaSMP-Team/CytechLauncher&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=CyoriaSMP-Team/CytechLauncher&type=date&legend=top-left&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=CyoriaSMP-Team/CytechLauncher&type=date&legend=top-left" />
+    <img alt="GitHub star history for CyoriaSMP-Team/CytechLauncher" src="https://star-history.dera.page/svg?repos=CyoriaSMP-Team/CytechLauncher&type=date&legend=top-left" width="800" />
+  </picture>
+</a>
+
+<!-- CYTECH_STAR_HISTORY:END -->
